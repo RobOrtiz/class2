@@ -1,2 +1,1 @@
-# class2
-class activity.
+Hello this is a test
